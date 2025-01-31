@@ -196,7 +196,7 @@ sections:
       text: Python Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: 'Increase your Goal, Management and Code'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
