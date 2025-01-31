@@ -233,7 +233,7 @@ sections:
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
-      businesses.
+      businesses, ure big businesses
     actions:
       - label: Get started
         url: /
