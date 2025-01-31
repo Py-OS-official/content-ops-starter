@@ -58,7 +58,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 10k
         subtitle: Numbers Done
         text: |
           can run 10k files on once
