@@ -227,7 +227,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Program Easily
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
