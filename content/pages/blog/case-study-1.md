@@ -1,5 +1,5 @@
 ---
-title: Project Started in
+title: ''
 slug: case-study-1
 date: '2025-01-29'
 excerpt: >-
