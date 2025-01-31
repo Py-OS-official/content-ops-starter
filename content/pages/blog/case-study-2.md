@@ -1,7 +1,7 @@
 ---
 title: Website Started in
 slug: case-study-2
-date: '0002-01-31'
+date: '2025-01-31'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
