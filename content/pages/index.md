@@ -169,7 +169,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: 'Run Python scripts, Better, Faster And Easier'
+      text: Make Python Easier!
       color: text-dark
       styles:
         self:
