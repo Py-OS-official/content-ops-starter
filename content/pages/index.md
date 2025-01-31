@@ -32,7 +32,7 @@ sections:
         type: Link
     media:
       url: /images/pyOS home.png
-      altText: Unblock your team boost your time to production preview
+      altText: PyOS image
       elementId: ''
       type: ImageBlock
     elementId: ''
