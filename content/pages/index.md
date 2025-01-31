@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: an OS made in python
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      PyOS is an OS made in python with LOTS of customization, features, and
+      comes installed with GOOGLE CHROME
     actions:
       - label: Get started
         altText: ''
