@@ -10,7 +10,8 @@ sections:
     subtitle: an OS made in python
     text: >
       PyOS is an OS made in python with LOTS of customization, features, and
-      comes installed with GOOGLE CHROME
+      comes installed with python 3.10.5 and a command prompt, PyOS is made to
+      run Python Files
     actions:
       - label: Get started
         altText: ''
