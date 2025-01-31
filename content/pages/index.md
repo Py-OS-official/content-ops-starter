@@ -269,7 +269,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: C
+      text: Contact us
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
