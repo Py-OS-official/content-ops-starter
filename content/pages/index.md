@@ -159,7 +159,6 @@ sections:
       subtitle:
         textAlign: center
   - posts:
-      - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
     showThumbnail: true
     showDate: true
