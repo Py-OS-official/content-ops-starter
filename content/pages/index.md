@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PyOS
 slug: /
 sections:
   - type: GenericSection
